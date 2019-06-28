@@ -1,0 +1,10 @@
+Origin;Destination;Distance;Duration
+London;Amsterdam;365;01:10
+London;Budapest;1462;02:20
+London;Bratislava;1285;02:15
+Bratislava;Paris;1096;02:05
+Bratislava;Berlin;517;01:15
+Vienna;Dublin;1686;02:50
+Vienna;Amsterdam;932;01:55
+Amsterdam;Budapest;1160;02:10
+Bratislava;Amsterdam;978;
